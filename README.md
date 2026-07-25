@@ -66,7 +66,7 @@ Sempre busco desenvolver soluções escaláveis e aprender novas tecnologias.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HcoelhoSev&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Sempre busco desenvolver soluções escaláveis e aprender novas tecnologias.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=HcoelhoSev&theme=tokyonight"/>
 
 </div>
 
@@ -86,7 +86,7 @@ Sempre busco desenvolver soluções escaláveis e aprender novas tecnologias.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HcoelhoSev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -96,7 +96,7 @@ Sempre busco desenvolver soluções escaláveis e aprender novas tecnologias.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HcoelhoSev&theme=tokyo-night"/>
 
 </div>
 
