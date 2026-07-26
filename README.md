@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Kotlin;REST+APIs+%7C+PostgreSQL+%7C+Docker;Sempre+aprendendo+novas+tecnologias!" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)]([SEU_LINKEDIN](https://www.linkedin.com/in/hcoelhosevero/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)]([[https://www.linkedin.com/in/hcoelhosevero/])
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:hcoelhosev@hotmail.com)
 
 </div>
